@@ -7,8 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hasindu-eshan-664147220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/hasindu-eshan-664147220" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100009540227221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasindu eshan de silva" height="30" width="40" /></a>
+<a href="https://twitter.com/eshan_de_silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eshan_de_silva" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hasindu-eshan-664147220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasindu-eshan-664147220" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100009540227221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100009540227221" height="30" width="40" /></a>
+<a href="https://instagram.com/e_s_h_a_n_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e_s_h_a_n_29" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
