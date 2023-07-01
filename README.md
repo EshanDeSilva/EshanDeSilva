@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshandesilva&label=Profile%20views&color=0e75b6&style=flat" alt="eshandesilva" /> </p>
 
 <p>
-💻 As a Fullstack Developer, I specialize in Java development, React, Spring Boot,  Angular, Node.js, and MySQL. My skill set extends to building robust web and mobile applications using React Native, Flutter and Dart. I'm driven by a deep passion for creating seamless user experiences and tackling complex challenges.
+💻 As a Fullstack Developer, I specialize in Java development, React, Spring Boot,  Angular, Node.js, and MySQL. My skill set extends to building robust web and mobile applications using React Native and Flutter. I'm driven by a deep passion for creating seamless user experiences and tackling complex challenges.
 
 🎓 Education and Certifications:
 - Bachelor of Computer Science (Ongoing)
