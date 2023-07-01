@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eshan De Silva</h1>
 <h3 align="center">A passionate Fullstack developer from Sri Lanka</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshandesilva&label=Profile%20views&color=0e75b6&style=flat" alt="eshandesilva" /> </p>
+
 <p>
 💻 As a Fullstack Developer, I specialize in Java development, React, Spring Boot,  Angular, Node.js, and MySQL. My skill set extends to building robust web and mobile applications using React Native, Flutter and Dart. I'm driven by a deep passion for creating seamless user experiences and tackling complex challenges.
 
@@ -20,8 +22,6 @@
 
 ✉️ Feel free to reach out to me for collaboration, networking, or discussing fascinating tech projects.
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshandesilva&label=Profile%20views&color=0e75b6&style=flat" alt="eshandesilva" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshandesilva" alt="eshandesilva" /></a> </p>
 
