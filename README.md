@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Eshan De Silva</h1>
 <h3 align="center">A passionate Fullstack developer from Sri Lanka</h3>
 
-<p>💻 As a Fullstack Developer, I specialize in Java development, React, Spring Boot,  Angular, Node.js, and MySQL. My skill set extends to building robust web and mobile applications using React Native, Flutter and Dart. I'm driven by a deep passion for creating seamless user experiences and tackling complex challenges.
+<p>
+💻 As a Fullstack Developer, I specialize in Java development, React, Spring Boot,  Angular, Node.js, and MySQL. My skill set extends to building robust web and mobile applications using React Native, Flutter and Dart. I'm driven by a deep passion for creating seamless user experiences and tackling complex challenges.
 
 🎓 Education and Certifications:
 - Bachelor of Computer Science (Ongoing)
 - Comprehensive Master Java Developer Diploma - IJSE
 - Graduate Diploma in Software Engineering - IJSE (Ongoing)
 - ICET Certified Master Program - ICET
+- Advanced Level in Physical Science Stream - Mahinda College, Galle (2020)
 
 🏆 Additional Achievements:
-- Advanced Level in Physical Science Stream - Mahinda College, Galle (2020)
 - Senior Prefect - Mahinda College, Galle (2020)
 - Western Cadet Band Sergeant - Mahinda College, Galle (2020)
+- 4th Place of Professional Software Solution - IJSE (2023)
 
 🌍 I'm constantly seeking opportunities to collaborate, innovate, and grow. Let's connect and explore how we can make a positive impact together in the exciting world of software development.
 
